@@ -1,0 +1,84 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "API Integration",
+      "description": "Connect frontend to REST API endpoints and handle auth headers",
+      "column": "backlog",
+      "priority": "high",
+      "createdAt": "2026-02-20T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Unit Tests",
+      "description": "Write tests for utility functions and custom hooks",
+      "column": "backlog",
+      "priority": "low",
+      "createdAt": "2026-02-20T11:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Performance Audit",
+      "description": "Lighthouse scores and bundle analysis with optimizations",
+      "column": "backlog",
+      "priority": "low",
+      "createdAt": "2026-02-21T09:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "title": "Authentication Flow",
+      "description": "Implement login, signup, and password reset screens",
+      "column": "in_progress",
+      "priority": "high",
+      "createdAt": "2026-02-21T10:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "title": "File Upload Component",
+      "description": "Drag and drop file upload with preview and progress indicator",
+      "column": "in_progress",
+      "priority": "medium",
+      "createdAt": "2026-02-22T09:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "title": "Dark Mode Support",
+      "description": "Add theme toggle and CSS variable switching across all components",
+      "column": "review",
+      "priority": "medium",
+      "createdAt": "2026-02-22T11:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "title": "Dashboard Layout",
+      "description": "Build responsive sidebar and main content area with grid",
+      "column": "review",
+      "priority": "medium",
+      "createdAt": "2026-02-23T09:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "title": "Design System Tokens",
+      "description": "Set up color palette, typography, and spacing scales",
+      "column": "done",
+      "priority": "high",
+      "createdAt": "2026-02-19T10:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "title": "Notification System",
+      "description": "Toast notifications and in-app alerts with queuing",
+      "column": "backlog",
+      "priority": "medium",
+      "createdAt": "2026-02-23T14:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "title": "User Settings Page",
+      "description": "Profile editing, preferences, and account management",
+      "column": "backlog",
+      "priority": "low",
+      "createdAt": "2026-02-24T08:00:00.000Z"
+    }
+  ]
+}
